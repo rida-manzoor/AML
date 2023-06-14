@@ -1,4 +1,4 @@
-# AML
+# Advance Machine Learning
 This repository have codes and tasks related to Advance Machine Learing Course
 <br><br><br>
 <b>Mainly this repository will contain following components:</b> <br>
